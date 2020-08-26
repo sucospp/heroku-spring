@@ -1,5 +1,4 @@
 # heroku-spring
-heroku-spring
 Para poder utilizar el servicio Cargado en la nube de Heroku por favor consumir los servicios de la siguiente URL: https://sucospp-desarrolladores.herokuapp.com/
 
 Los servicios se desarrollaron con la ayuda de listas, las mismas que se utilizan para modificar, crear, eliminar y listar los datos de los desarrolladores.
@@ -12,7 +11,7 @@ a los repositorios, en este caso se utilizaron solo para esto ya que no se reque
 Se creó un Objeto llamado persona el mismo que contiene toda la informacion del desarrollador y es utilizado en la capa repositorio para poder obtener los diferentes
 campos que lo componen.
 
-#Uso de servicios. 
+# Uso de servicios. 
 Los servicios se consumen tal cual dice el pdf del ejercicio enviado, por ejemplo: 
 #GET lista todos los desarrolladores en formato JSON 
 URL= https://sucospp-desarrolladores.herokuapp.com/developers
@@ -36,7 +35,7 @@ URL= https://sucospp-desarrolladores.herokuapp.com/developers/12
 En este caso se envía el identificador en la URL y se elimina el desarrollador. Valida la existencia del cliente.
 
 
-###Dockerfile
+# Dockerfile
 El dockerfile contiene la descripcion de los comantos en el propio archivo.
 Para poder crear la imagen se ejecuta el comando en la consola de docker
 
