@@ -1,5 +1,6 @@
 # heroku-spring
-Para poder utilizar el servicio Cargado en la nube de Heroku por favor consumir los servicios de la siguiente URL: https://sucospp-desarrolladores.herokuapp.com/
+Para poder utilizar el servicio Cargado en la nube de Heroku utilizar la siguiente URL: https://sucospp-desarrolladores.herokuapp.com/    y 
+puede utilizar una aplicacion como POSTMAN para consumirlos.
 
 
 Los servicios se desarrollaron con la ayuda de listas, las mismas que se utilizan para modificar, crear, eliminar y listar los datos de los desarrolladores.
